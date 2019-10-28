@@ -16,8 +16,10 @@
 
 # 
 # Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE2 faça:
-a) adicione atributos com os modificados de acesso: private, protected e public
-
-a) crie uma classe com um método principal. Nesta classe deverá instanciar a classe Cerveja
+a) adicione atributos com os modificados de acesso: private, protected e public na classe Cerveja
 # 
-b) com os objetos instanciados, execute os métodos herdados pelas classes instanciados por estes objetos
+b) Crie o método get para ler o atributo e um método set para informar um valor ao atributo criado. 
+# 
+d) crie uma classe com um método principal. Nesta classe deverá instanciar a classe Cerveja
+# 
+d) com o objeto instanciado, execute os atributos herdados pela classe instanciada por este objeto

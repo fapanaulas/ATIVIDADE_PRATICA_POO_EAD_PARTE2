@@ -22,4 +22,4 @@ b) Crie o método get para ler o atributo e um método set para informar um valo
 # 
 d) crie uma classe com um método principal. Nesta classe deverá instanciar a classe Cerveja
 # 
-d) com o objeto instanciado, execute os atributos herdados pela classe instanciada por este objeto
+d) com o objeto instanciado, atribua valor aos atributos herdados pela classe instanciada por este objeto
